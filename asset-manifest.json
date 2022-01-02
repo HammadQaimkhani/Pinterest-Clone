@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pinterest-Clone/static/css/main.c7ec3132.css",
+    "main.js": "/Pinterest-Clone/static/js/main.10d0aadd.js",
+    "index.html": "/Pinterest-Clone/index.html",
+    "main.c7ec3132.css.map": "/Pinterest-Clone/static/css/main.c7ec3132.css.map",
+    "main.10d0aadd.js.map": "/Pinterest-Clone/static/js/main.10d0aadd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.10d0aadd.js"
+  ]
+}
